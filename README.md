@@ -5,9 +5,9 @@
 [![GitHub Issues](https://img.shields.io/github/issues/MomentumRobotics/robot-programming)](https://github.com/MomentumRobotics/robot-programming/issues)
 
 ## 🏆 Team Overview
-**FIRST Tech Challenge Team #XXXX**  
-**Location:** Brăila, Romania  
-**Season:** 2024-2025
+**Momentum #21088**  
+**Location:** Colegiul National " Nicolae Iorga ", Brăila, Romania  
+**Season:** Into The Deep season #9 (2024-2025)
 
 ## 🚀 Quick Start Guide
 
