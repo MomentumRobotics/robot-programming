@@ -1,0 +1,9 @@
+[submodule "TeamCode/src/TrcCommonLib"]
+	path = TeamCode/src/TrcCommonLib
+	url = https://github.com/trc492/TrcCommonLib
+[submodule "TeamCode/src/TrcFtcLib"]
+	path = TeamCode/src/TrcFtcLib
+	url = https://github.com/trc492/TrcFtcLib
+[submodule "TeamCode/src/FtcVirtualRobots"]
+	path = TeamCode/src/FtcVirtualRobots
+	url = https://github.com/trc492/FtcVirtualRobots
