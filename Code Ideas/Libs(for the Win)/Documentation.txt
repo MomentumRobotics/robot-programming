@@ -1,0 +1,8 @@
+https://docs.ftclib.org/ftclib
+https://github.com/OpenFTC/EasyOpenCV/tree/master/doc
+https://learnroadrunner.com/
+https://ftc-docs.firstinspires.org/en/latest/
+https://rh-robotics.github.io/MeepMeep/
+https://www.team254.com/resources/
+https://junit.org/junit5/docs/current/user-guide/
+https://www.kalmanfilter.net/default.aspx
